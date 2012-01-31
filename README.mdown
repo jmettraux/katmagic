@@ -7,10 +7,12 @@ Covered by the MIT license.
 
 ## versions
 
-    Darwin sanma.local 10.8.0 Darwin Kernel Version 10.8.0: Tue Jun  7 16:33:36 PDT 2011; root:xnu-1504.15.3~1/RELEASE_I386 i386
+    Darwin sanma.local 10.8.0 Darwin Kernel Version 10.8.0: Tue Jun  7 16:33:36 PDT 2011;
+      root:xnu-1504.15.3~1/RELEASE_I386 i386
 
     rvm 1.6.20 by Wayne E. Seguin (wayneeseguin@gmail.com) [https://rvm.beginrescueend.com/]
     ruby 1.9.2p290 (2011-07-09 revision 32553) [x86_64-darwin10.8.0]
+    Bundler version 1.0.21
     Rails 3.2.1
     WEBrick 1.3.1
     rufus-scheduler 2.0.16
